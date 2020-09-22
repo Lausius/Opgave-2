@@ -1,0 +1,11 @@
+.breadcrumb a, #parantes {
+    font-size: 11px;
+}
+
+.breadcrumb {
+    align-content: center;
+}
+
+.jumbotron .lead {
+    color: white;
+}
